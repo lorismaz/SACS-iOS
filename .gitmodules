@@ -1,0 +1,6 @@
+[submodule "submodules/Alamofire"]
+	path = submodules/Alamofire
+	url = https://github.com/Alamofire/Alamofire
+[submodule "submodules/ObjectMapper"]
+	path = submodules/ObjectMapper
+	url = https://github.com/Hearst-DD/ObjectMapper
